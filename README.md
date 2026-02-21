@@ -317,11 +317,11 @@ Steps:
 
 Add screenshots of the following pages to help contributors understand the user interface:
 
-- Login page (login.jsp)
-- Registration page (register.jsp)
-- Home dashboard with employee records table (home.jsp)
-- Edit modal dialog
-- Delete confirmation modal
+- [Login page (login.jsp)](Pictures/Login.png)
+- [Registration page (register.jsp)](Pictures/Register.png)
+- [Home dashboard with employee records table (home.jsp)](Pictures/Home.png)
+- [Edit modal dialog](Pictures/Edit.png)
+- [Delete confirmation modal](Pictures/Delete.png)
 
 ---
 
