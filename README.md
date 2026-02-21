@@ -1,4 +1,4 @@
-# JPAProject - Employee Management System
+# JPA Project - Employee Management System
 
 A Java EE web application that demonstrates full CRUD (Create, Read, Update, Delete) functionality for managing employee records using the Java Persistence API (JPA). The project follows a clean layered architecture separating the Controller, Service, DAO, and Entity layers. The front end is built with JSP pages styled with pure CSS.
 
@@ -317,9 +317,9 @@ Steps:
 
 Add screenshots of the following pages to help contributors understand the user interface:
 
-- [Login page (login.jsp)](Pictures/Login.png)
-- [Registration page (register.jsp)](Pictures/Register.png)
-- [Home dashboard with employee records table (home.jsp)](Pictures/Home.png)
+- [Login page](Pictures/Login.png)
+- [Registration page](Pictures/Register.png)
+- [Home dashboard with employee records table](Pictures/Home.png)
 - [Edit modal dialog](Pictures/Edit.png)
 - [Delete confirmation modal](Pictures/Delete.png)
 
