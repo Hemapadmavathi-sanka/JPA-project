@@ -17,8 +17,7 @@ A Java EE web application that demonstrates full CRUD (Create, Read, Update, Del
 9. Database Configuration
 10. How to Add Your Own Database Driver
 11. Setup and Installation
-12. Screenshots
-13. Contributing
+12. Contributing
 
 ---
 
@@ -313,19 +312,8 @@ Steps:
 
 ---
 
-## 12. Screenshots
 
-Add screenshots of the following pages to help contributors understand the user interface:
-
-- Login page (login.jsp)
-- Registration page (register.jsp)
-- Home dashboard with employee records table (home.jsp)
-- Edit modal dialog
-- Delete confirmation modal
-
----
-
-## 13. Contributing
+## 12. Contributing
 
 Contributions are welcome from anyone. To contribute:
 
